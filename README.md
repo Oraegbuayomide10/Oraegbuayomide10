@@ -16,7 +16,7 @@
 
 
 ### 🏆 Achievements  
-- 🥈 **Second-place(with my team)** in the **GeoAI Hack** Hackathon co-organised by **Instadeep and datacraft** as part of the **AI Action Summit 2005**.
+- 🥈 **Second-place(with my team)** in the **GeoAI Hack** Hackathon co-organised by **Instadeep and datacraft** as part of the **AI Action Summit 2025 held in Paris, France**.
 - 🥇 **First-place** in the **ESA EO4SoilProtection 2024 hackathon** for predicting soil organic carbon density hosted by **OpenGeohub** in collaboration with **European Space Agency(ESA)**.
 - 🥇 **Winner** of the **Biodiversity Monitoring and visualization competition** hosted by **Zindi** in collaboration with the **Zimbabwe Mana Pools National Park**.
 - 🥈 **Second-place** winning solution in the **ESA EO4SoilProtection 2024 hackathon** for predicting soil erosion classes hosted by **OpenGeohub** in collaboration with **European Space Agency(ESA)**.
